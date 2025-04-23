@@ -1,0 +1,7 @@
+Flask==2.3.2
+opencv-python
+numpy
+mediapipe
+python-dotenv
+cloudinary
+pymongo
